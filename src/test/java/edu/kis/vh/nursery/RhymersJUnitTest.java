@@ -3,6 +3,7 @@ package edu.kis.vh.nursery;
 import org.junit.Assert;
 import org.junit.Test;
 
+//alt + strzałka - zmienia karte na nastepna/poprzednia
 public class RhymersJUnitTest {
 
     @Test
