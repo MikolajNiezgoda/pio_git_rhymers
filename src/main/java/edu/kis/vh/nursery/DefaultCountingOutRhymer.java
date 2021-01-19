@@ -23,6 +23,10 @@ public class DefaultCountingOutRhymer {
         return total == INT;
     }
 
+    public void setTotal(int total) {
+        this.total = total;
+    }
+
     protected int peekaboo() {
         if (callCheck())
             return INT2;
